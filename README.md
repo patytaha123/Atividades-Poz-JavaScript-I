@@ -1,5 +1,5 @@
 # Atividades-Poz-JavaScript-I
-Curso Proz /Atividades JavaScript.
+# Curso Proz /Atividades JavaScript.
 
 Identificar a finalidade para contexto Web.
 
